@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YasirAzam6
-- 👀 I’m interested in Python Development as well as Data Analysis.
-- 🌱 I’m currently learning Odoo
+- 👀 I’m interested in Devops Engineering as well as interested in Python Development as well.
+- 🌱 I’m currently learning Devops technologies.
 - 💞️ I’m looking to collaborate on different projects 
 - 📫 How to reach me? You can contact me via email (yasirrana818@gmail.com)
 
