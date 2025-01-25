@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @YasirAzam
 - 👀 I’m interested in Python.
-- 🌱 I’m currently learning python development.
 - 💞️ I’m looking to collaborate on different projects 
 - 📫 How to reach me? You can contact me via email (yasirrana818@gmail.com)
 
